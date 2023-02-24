@@ -5,7 +5,7 @@
     box-sizing: inherit;
 }
 body {
-    background-image: url('/css/zdjecia/wood-2203740_1280.jpg');
+    background-image: url('wood-2203740_1280.jpg');
     color: white;
 }
 #header, .about-section, #footer {
@@ -99,13 +99,13 @@ body {
     
 }
 .restaurant-details .best-ingredients {
-    background-image: url('/css/zdjecia/olive-oil-1412361__340.jpg');
+    background-image: url('olive-oil-1412361__340.jpg');
 }
 .restaurant-details .original-recipe {
-    background-image: url('/css/zdjecia/cook-1375788_960_720.jpg');
+    background-image: url('cook-1375788_960_720.jpg');
 }
 .restaurant-details .fast-delivery {
-    background-image: url('/css/zdjecia/motor-scooter-4837310_960_720.jpg');
+    background-image: url('motor-scooter-4837310_960_720.jpg');
 }
 .restaurant-details .default .describe {
     position: absolute;
